@@ -1,0 +1,8 @@
+numba
+numpy
+opencv_python
+PyYAML
+setuptools
+torch
+tqdm
+open3d
